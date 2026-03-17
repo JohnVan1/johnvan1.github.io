@@ -100,12 +100,11 @@ button:focus-visible {
   letter-spacing: 0.2px;
 }
 
-.brand-dot {
-  width: 12px;
-  height: 12px;
-  border-radius: 99px;
-  background: linear-gradient(135deg, var(--accent), var(--accent-2));
-  box-shadow: 0 0 0 6px rgba(124, 92, 255, 0.18);
+.brand-icon {
+  width: 18px;
+  height: 18px;
+  display: block;
+  color: var(--accent);
 }
 
 .nav {
